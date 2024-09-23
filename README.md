@@ -1,16 +1,28 @@
-# quick_weather
+# Quick Weather
 
-A new Flutter project.
+## Prerequisites
+Before you begin, ensure you have met the following requirements:
+- Flutter SDK installed (version 3.22.3)
+- Dart SDK installed (version 3.4.4)
+- An IDE (e.g., Android Studio, Visual Studio Code)
 
-## Getting Started
+## Installation
+1. Clone the repository:
+   git clone https://github.com/ArsalanJawed209/Quick-Weather.git
 
-This project is a starting point for a Flutter application.
+2.Open the project in Visual Studio Code.
 
-A few resources to get you started if this is your first Flutter project:
+3.Install dependencies:
+  flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+4.Open an emulator or connect an Android device.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+5.Run the app:
+  flutter run
+
+You can also download the APK from the following link, install it, and open the app:
+ https://we.tl/t-M7taLYWgO6
+
+
+
+
